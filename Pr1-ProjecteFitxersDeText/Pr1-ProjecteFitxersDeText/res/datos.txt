@@ -1,0 +1,8 @@
+1|lechuga|1,55|430
+2|pesaco|2,6|374
+3|carne|5,4|66
+4|cebolla|1,23|628
+5|coliflor|0,85|736
+6|pimiento|5,06|97
+7|jengibre|1,2|47
+8|pera|4,86|586
